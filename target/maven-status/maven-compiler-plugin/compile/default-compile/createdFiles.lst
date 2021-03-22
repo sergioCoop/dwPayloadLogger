@@ -1,0 +1,7 @@
+ca/cooperators/logger/dwpayloadlogger/db/SequenceGenerator.class
+ca/cooperators/logger/dwpayloadlogger/core/Payload.class
+ca/cooperators/logger/dwpayloadlogger/DwPayloadLoggerApplication.class
+ca/cooperators/logger/dwpayloadlogger/DwPayloadLoggerApplication$1.class
+ca/cooperators/logger/dwpayloadlogger/db/DwPayloadLoggerDao.class
+ca/cooperators/logger/dwpayloadlogger/DwPayloadLoggerConfiguration.class
+ca/cooperators/logger/dwpayloadlogger/resources/DwPayloadLoggerResource.class
